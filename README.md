@@ -45,7 +45,7 @@ attributeStyleMap: StylePropertyMap {size: 0}
 attributes: NamedNodeMap {length: 0}
 autocapitalize: ""
 autofocus: false
-baseURI: "https://2i5xh54zl1hpzvdazzzglg-on.drv.tw/you%20tuve/QUIERES%20SER%20MI%20NOVIA/declaracion/declaracion.html"
+baseURI: "https://2i5xh54zl1hpzvdazzzglg-on.drv.tw/you%20tuve/QUIERES%20SEGUIR%20MI%20POLOLIANDO/declaracion/declaracion.html"
 childElementCount: 0
 childNodes: NodeList [text]
 children: HTMLCollection []
@@ -65,8 +65,8 @@ firstChild: text
 firstElementChild: null
 hidden: false
 id: ""
-innerHTML: "¿QUIERES SER MI NOVIA?"
-innerText: "¿QUIERES SER MI NOVIA?"
+innerHTML: "¿QUIERES SEGUIR POLOLIANDO?"
+innerText: "¿QUIERES SEGUIR POLOLIANDO?"
 inputMode: ""
 isConnected: true
 isContentEditable: false
@@ -183,8 +183,8 @@ onwebkitfullscreenchange: null
 onwebkitfullscreenerror: null
 onwebkittransitionend: null
 onwheel: null
-outerHTML: "<p>¿QUIERES SER MI NOVIA?</p>"
-outerText: "¿QUIERES SER MI NOVIA?"
+outerHTML: "<p>¿QUIERES SEGUIR POLOLIANDO?</p>"
+outerText: "¿QUIERES SEGUIR POLOLIANDO?"
 ownerDocument: document
 parentElement: div.contenedor
 parentNode: div.contenedor
